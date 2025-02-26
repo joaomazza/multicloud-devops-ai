@@ -1,6 +1,5 @@
 ### 📌 **README.md**  
 
-```md
 # 🚀 Multicloud DevOps + IA - Criando Infraestrutura com Terraform  
 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -213,4 +212,3 @@ aws ec2 authorize-security-group-ingress --group-id <seu-sg-id> --protocol tcp -
 📢 **Vamos juntos nessa jornada!** 🚀  
 
 #DevOps #Multicloud #Terraform #AWS #Docker #InfraAsCode
-```
