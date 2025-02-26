@@ -16,7 +16,7 @@ Este repositório contém o projeto **CloudMart**, onde utilizamos **Terraform**
 
 ```
 📦 MULTICLOUD-DEVOPS-AI
-├── 📂 challenge-day2
+├── 📂 application
 │   ├── 📂 backend                 # Código e Dockerfile do backend
 │   ├── 📂 frontend                # Código e Dockerfile do frontend
 │
@@ -151,7 +151,7 @@ docker --version
 ## **3️⃣ Criar as Imagens Docker do CloudMart**
 ### **Backend**
 ```sh
-cd challenge-day2/backend
+cd application/backend
 wget https://tcb-public-events.s3.amazonaws.com/mdac/resources/day2/cloudmart-backend.zip
 unzip cloudmart-backend.zip
 nano .env
