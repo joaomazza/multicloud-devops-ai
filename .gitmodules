@@ -1,0 +1,3 @@
+[submodule "application/frontend"]
+	path = application/frontend
+	url = git@github.remoto:joaomazza/multicloud-front
