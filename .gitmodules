@@ -1,3 +1,6 @@
 [submodule "application/frontend"]
 	path = application/frontend
 	url = git@github.remoto:joaomazza/multicloud-front
+[submodule "application/backend"]
+	path = application/backend
+	url = git@github.remoto:joaomazza/multicloud-back
